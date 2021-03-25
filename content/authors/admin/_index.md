@@ -14,14 +14,7 @@ organizations:
   url: https://epidemiology.phhp.ufl.edu/training/nida/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous
-research that can lead to the development of effective interventions that promote greater health and
-independence in old age. I am interested in characterizing developmental trajectories of social cognition and
-health-related behaviors, including identifying potential age-related deficits and ways to optimize function in
-these domains. As a University of Florida NIDA T32 postdoctoral fellow, I investigate neurobiological and
-psychosocial contributors to chronic pain and substance use. I employ an integrative biopsychosocial
-methodological approach to research, which leverages biological sampling, self-report and experimental
-measures, and neuroimaging.
+bio: 
 
 # Interests to show in About widget
 research interests:
@@ -83,8 +76,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Marilyn Horta is a postdoctoral fellow in the University of Florida NIDA T32 Program. Her primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous research that can lead to the development of effective interventions that promote greater health and independence in old age. She is particularly interested in characterizing developmental trajectories of social cognition and health-related behaviors, including identifying potential age-related deficits and ways to optimize function in
+these domains. Currently, she investigates neurobiological and psychosocial contributors to chronic pain and substance use. She employs an integrative biopsychosocial
+methodological approach to research, which leverages biological sampling, self-report and experimental measures, and neuroimaging.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
