@@ -6,7 +6,7 @@ title: Marilyn Horta
 superuser: true
 
 # Role/position/tagline
-role: University of Florida NIDA T32 Postdoctoral Fellow
+role: NIDA T32 Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,8 +79,6 @@ email: "mhorta09@ufl.edu"
 highlight_name: false
 ---
 
-Marilyn Horta is a postdoctoral fellow in the University of Florida NIDA T32 Program. Her primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous research that can lead to the development of effective interventions that promote greater health and independence in old age. She is particularly interested in characterizing developmental trajectories of social cognition and health-related behaviors, including identifying potential age-related deficits and ways to optimize function in
-these domains. Currently, she investigates neurobiological and psychosocial contributors to chronic pain and substance use. She employs an integrative biopsychosocial
-methodological approach to research, which leverages biological sampling, self-report and experimental measures, and neuroimaging.
+Marilyn Horta is a postdoctoral fellow in the University of Florida NIDA T32 Program. Her primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous research that can lead to the development of effective interventions that promote greater health and independence in old age. She is particularly interested in characterizing developmental trajectories of social cognition and health-related behaviors, which includes identifying potential age-related deficits and ways to optimize function in these domains. Currently, she investigates neurobiological and psychosocial contributors to chronic pain and substance use. She employs an integrative biopsychosocial methodological approach to research, which leverages biological sampling, self-report and experimental measures, and neuroimaging.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
