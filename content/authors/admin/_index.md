@@ -73,7 +73,7 @@ social:
 #   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mhorta09@ufl.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
