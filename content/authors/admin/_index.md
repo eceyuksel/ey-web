@@ -24,13 +24,12 @@ methodological approach to research, which leverages biological sampling, self-r
 measures, and neuroimaging.
 
 # Interests to show in About widget
-interests:
+research interests:
 - Aging
 - Chronic Pain
 - Substance Use
 - Social Cognition
 - Decision-making
-- fMRI
 
 # Education to show in About widget
 education:
