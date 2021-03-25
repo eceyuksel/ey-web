@@ -1,39 +1,56 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marilyn Horta
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: University of Florida NIDA T32 Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Florida Substance Abuse Training Center in Public Health
+  url: https://epidemiology.phhp.ufl.edu/training/nida/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous
+research that can lead to the development of effective interventions that promote greater health and
+independence in old age. I am interested in characterizing developmental trajectories of social cognition and
+health-related behaviors, including identifying potential age-related deficits and ways to optimize function in
+these domains. As a University of Florida NIDA T32 postdoctoral fellow, I investigate neurobiological and
+psychosocial contributors to chronic pain and substance use. I employ an integrative biopsychosocial
+methodological approach to research, which leverages biological sampling, self-report and experimental
+measures, and neuroimaging.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Aging
+- Chronic Pain
+- Substance Use
+- Social Cognition
+- Decision-making
+- fMRI
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychology
+    institution: University of Florida
+    year: 2020
+  - course: MS in Psychology
+    institution: University of Florida
+    year: 2017
+  - course: Post-Baccalaureate Research Experience Program
+    institution: Emory University
+    year: 2014
+  - course: BS in Psychology
+    institution: Florida State University
+    year: 2013
+  - course: BS in International Affairs
+    institution: Florida State University
+    year: 2013
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +62,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/marilyn_horta
+- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=mjaxP2YAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/mhorta09
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
