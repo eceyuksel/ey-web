@@ -63,7 +63,7 @@ social:
   link: https://github.com/mhorta09
 - icon: osf
   icon_pack: ai
-  link: osf.io/87eaw
+  link: https://osf.io/87eaw
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
