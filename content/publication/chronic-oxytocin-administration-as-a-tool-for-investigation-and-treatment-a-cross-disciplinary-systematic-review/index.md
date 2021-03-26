@@ -31,7 +31,7 @@ draft: false
 featured: true
 image:
   filename: 1-s2.0-s0149763419303239-gr3.jpg
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
   caption: Conceptual and methodological factors that impact chronic oxytocin
     administration effects
