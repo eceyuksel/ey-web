@@ -50,4 +50,4 @@ highlight_name: false
 ---
 I am a first-generation, Latinx/e postdoctoral fellow in the University of Florida NIDA T32 Program. My primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous research that can lead to the development of interventions that promote greater health and independence in old age. I am particularly interested in characterizing developmental trajectories of social cognition and health-related behaviors, which includes identifying potential age-related deficits and ways to optimize function in these domains. Under the mentorship of Dr. Roger Fillingim, I am investigating neurobiological and psychosocial contributors to chronic pain and substance use in aging. In my research, I employ an integrative biopsychosocial methodological approach, which leverages biological sampling, self-report and behavioral measures, as well as neuroimaging.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
