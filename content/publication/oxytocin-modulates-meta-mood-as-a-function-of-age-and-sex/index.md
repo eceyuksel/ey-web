@@ -1,16 +1,15 @@
 ---
-title: Oxytocin modulates meta-mood as a function of age and sex
+title: Multidisciplinary perspective on prosociality in aging
 publication_types:
-  - "2"
+  - "6"
 authors:
-  - Natalie Ebner
+  - Natalie C Ebner
+  - Phoebe E Bailey
   - Marilyn Horta
-  - Tian Lin
-  - Håkan Fischer
-  - Ronald Cohen
-  - David Feifel
-doi: https://doi.org/10.3389/fnagi.2015.00175
-publication: Frontiers in aging neuroscience
+  - Jessica A Joiner
+  - Steve WC Chang
+doi: https://psycnet.apa.org/record/2016-58328-013
+publication: "Social Cognition: Development Across the Life Span"
 abstract: Attending to and understanding one’s own feelings are components of
   meta-mood and constitute important socio-affective skills across the entire
   lifespan. Growing evidence suggests a neuromodulatory role of the neuropeptide
