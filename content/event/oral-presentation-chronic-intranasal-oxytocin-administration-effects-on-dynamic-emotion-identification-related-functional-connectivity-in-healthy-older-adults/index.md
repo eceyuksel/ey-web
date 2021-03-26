@@ -33,7 +33,7 @@ authors:
   - Ebner
   - N.C.
 image:
-  filename: picture1.png
+  filename: 'uploads/picture1.png'
   focal_point: Smart
   preview_only: false
 ---
