@@ -27,7 +27,7 @@ abstract: Attending to and understanding one’s own feelings are components of
   neuropeptide oxytocin on meta-mood, possibly associated with neurobiological
   differences with age and sex.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
