@@ -30,13 +30,13 @@ abstract: Oxytocin (OT) subserves various physiological, behavioral, and
 draft: false
 featured: true
 image:
-  filename: 1-s2.0-s0149763419303239-gr3_lrg.jpg
+  filename: 1-s2.0-s0149763419303239-gr3.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: Conceptual and methodological factors that impact chronic oxytocin
     administration effects
   alt_text: "Conceptual and methodological factors that impact chronic oxytocin
     administration effects: Administration route, dosage, duration and frequency
     of administration, contextual factors, interindividual factors"
-date: 2021-03-26T02:01:56.182Z
+date: 2019-10-22T02:01:56.182Z
 ---
