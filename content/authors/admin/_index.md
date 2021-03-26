@@ -53,7 +53,7 @@ I am a first-generation, Latinx/e postdoctoral fellow in the University of Flori
 
 My graduate work assessed the modulatory effects of intranasal oxytocin administration in older adults on whole-brain pattern activation, functional connectivity, and behavior relevant to socioemotional skills impacted by aging. Under the mentorship of Dr. Roger Fillingim, I am investigating neurobiological and psychosocial contributors to chronic pain and substance use in aging. In my research, I employ an integrative biopsychosocial approach, which leverages methods such as biological sampling, self-report and behavioral measures, as well as neuroimaging.
 
-I will be on the job market in 2022. 
+Hire me in 2022!
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
