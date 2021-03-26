@@ -2,7 +2,7 @@
 organizations:
   - name: University of Florida Substance Abuse Training Center in Public Health
     url: https://epidemiology.phhp.ufl.edu/training/nida/
-research interests:
+interests:
   - Aging
   - Chronic Pain
   - Substance Use
