@@ -18,7 +18,7 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Chronic intranasal oxytocin administration effects on dynamic emotion
   identification & related functional connectivity in healthy older adults
-location: Gainesville, Florida
+location: Florida
 date: 2021-02-19T18:30:00.000Z
 date_end: 2021-02-19T18:45:00.000Z
 all_day: false
