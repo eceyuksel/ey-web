@@ -14,7 +14,7 @@ bio: null
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:mhorta09@ufl.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/marilyn_horta
