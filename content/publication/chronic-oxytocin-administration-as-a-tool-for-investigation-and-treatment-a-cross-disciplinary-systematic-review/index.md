@@ -32,7 +32,7 @@ featured: true
 image:
   filename: https://ars.els-cdn.com/content/image/1-s2.0-S0149763419303239-gr3_lrg.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Conceptual and methodological factors that impact chronic oxytocin
     administration effects
   alt_text: "Conceptual and methodological factors that impact chronic oxytocin
