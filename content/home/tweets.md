@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Tweets
 headless: true
-weight: 10
+weight: 80
 title: Latest Tweets
 active: true
 design:
