@@ -33,7 +33,7 @@ abstract: Aging is associated with increased difficulty in facial emotion
   literature, these findings show that OT alters brain activity and amygdalar
   connectivity by age and emotion.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
