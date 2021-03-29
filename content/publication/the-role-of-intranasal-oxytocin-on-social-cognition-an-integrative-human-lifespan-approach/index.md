@@ -30,3 +30,4 @@ image:
   preview_only: false
 date: 2020-09-12T19:54:00.000Z
 ---
+![](fig.jpg)
