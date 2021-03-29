@@ -30,7 +30,7 @@ abstract: Oxytocin (OT) subserves various physiological, behavioral, and
 draft: false
 featured: true
 image:
-  filename: static/uploads/1-s2.0-S0149763419303239-gr3.jpg
+  filename: 'static/uploads/1-s2.0-S0149763419303239-gr3.jpg'
   focal_point: CENTER
   preview_only: false
   caption: Conceptual and methodological factors that impact chronic oxytocin
