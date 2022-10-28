@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: University of Florida Substance Abuse Training Center in Public Health
-    url: https://epidemiology.phhp.ufl.edu/training/nida/
+  - name: University of Florida Department of Psychology
+    url: 
 interests:
   - Aging
   - Chronic Pain
@@ -9,8 +9,8 @@ interests:
   - Social Cognition
   - Decision-making
   - Functional Connectivity
-title: Marilyn Horta
-role: NIDA T32 Postdoctoral Fellow
+title: Marilyn Horta, Ph.D.
+role: Research Assistant Professor
 bio: null
 social:
   - icon: envelope
@@ -36,7 +36,7 @@ education:
     - course: MS in Psychology
       institution: University of Florida
       year: 2017
-    - course: Post-Baccalaureate Research Experience Program
+    - course: Post-Baccalaureate Research Education Program
       institution: Emory University
       year: 2014
     - course: BS in Psychology
@@ -49,11 +49,11 @@ email: mhorta09@ufl.edu
 superuser: true
 highlight_name: false
 ---
-I am a first-generation, Latinx/e postdoctoral fellow in the University of Florida NIDA T32 Program. My primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous research that can lead to the development of interventions that promote greater health and independence in old age. I am particularly interested in characterizing developmental trajectories of social cognition and health-related behaviors, which includes identifying potential age-related deficits and ways to optimize function in these domains. 
+I am a first-generation, Latine research assistant professor in the Department of Psychology and former NIDA T32 postdoctoral fellow in the Department of Epidemiology at the University of Florida. My primary goal as a developmental psychologist and cognitive neuroscientist is to conduct rigorous research that can lead to the development of interventions that promote greater health and independence in old age. I am particularly interested in characterizing developmental trajectories of social cognition and health-related behaviors, which includes identifying potential age-related deficits and ways to optimize function in these domains. 
 
-My graduate work assessed the modulatory effects of intranasal oxytocin administration in older adults on whole-brain pattern activation, functional connectivity, and behavior relevant to socioemotional skills impacted by aging. Under the mentorship of Dr. Roger Fillingim, I am investigating neurobiological and psychosocial contributors to chronic pain and substance use in aging. In my research, I employ an integrative biopsychosocial approach, which leverages methods such as biological sampling, self-report and behavioral measures, as well as neuroimaging.
+My graduate work assessed the modulatory effects of intranasal oxytocin administration in older adults on whole-brain pattern activation, functional connectivity, and behavior relevant to socioemotional skills impacted by aging. currently, I am investigating neurobiological and psychosocial contributors to chronic pain and substance use in aging. Through support from a PA-21-071 supplement for parent grant R01AG072658 (Characterizing and Modulating Neurocognitive Processes of Learning to Trust and Distrust in Aging), I am also investigating non-social and social decision-making in older adults with and without chronic pain. In my research, I employ an integrative biopsychosocial approach, which leverages methods such as biological sampling, self-report and behavioral measures, as well as neuroimaging.
 
-Hire me in 2022!
+Hire me in 2023!
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
